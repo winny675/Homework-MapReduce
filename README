@@ -1,0 +1,6 @@
+Learning MapReduce
+
+Here we install mrjob library (job, step, runner)
+mrjob.job is to manage Big Data in MapReduce
+mrjob.step is define method in mrjob
+mejob.runner is to run MapReduce
